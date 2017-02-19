@@ -22,7 +22,7 @@ projects:
   - title: Projects
     children:
       - title: "NASA Aeromechanics"
-        url: /projects/quick-start-guide/
+        url: /projects/nasa-aeromechanics/
       - title: "DLR Flying Robots"
         url: /projects/flying-robots/
       - title: "REXUS SCRAP"
