@@ -11,7 +11,7 @@ main:
   - title: "Sitemap"
     children:
        - title: "Working with Posts"
-        url: /docs/posts/
+         url: /docs/posts/
     
 docs:
   - title: Getting Started
