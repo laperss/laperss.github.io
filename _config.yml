@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Linnea Persson"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/linnea3.png
   bio              : "PhD student in Automatic Control at KTH Royal Institute of Technology."
   location         : "Stockholm, Sweden"
   email            : "laperss@kth.se"
