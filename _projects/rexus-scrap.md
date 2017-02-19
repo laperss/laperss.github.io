@@ -10,7 +10,7 @@ The experiment was launched from Esrange in March of 2015.
 
 ![SCRAP team with rocket]({{ site.url }}{{ site.baseurl }}/assets/images/SCRAP_team.jpg)
 ![SCRAP team with rocket]({{ site.url }}{{ site.baseurl }}/assets/images/SCRAP_rocket.jpg)
-![SCRAP team with rocket]({{ site.url }}{{ site.baseurl }}/assets/images/SCRAP_PCB.jpg)
-![SCRAP team with rocket]({{ site.url }}{{ site.baseurl }}/assets/images/SCRAP_copper.jpg)
+![SCRAP team with rocket]({{ site.url }}{{ site.baseurl }}/assets/images/SEM_particles1.jpg)
+![SCRAP team with rocket]({{ site.url }}{{ site.baseurl }}/assets/images/SCRAP_team2.jpg)
 
 
