@@ -8,15 +8,12 @@ main:
     url: /research/
   - title: "Projects"
     url: /projects/
+    children:
+       - title: "REXUS SCRAP"
+         url: /projects/rexus-scrap/
   - title: "Teaching"
     url: /teaching/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
-  - title: "Sitemap"
-    url: /sitemap/
-    children:
-       - title: "Working with Posts"
-         url: /pages/testpage/
-    
