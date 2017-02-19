@@ -11,4 +11,4 @@ sidebar:
 ---
 Denna vattentankssimulering skrevs av Viktor Åberg 2014.
 
-<script type="text/javascript" language="javascript" src="{{ site.url }}{{ site.baseurl }}/assets/apps/control2_tanksystem/control2_tanksystem.nocache.js"></script>
+<script type="text/javascript" language="javascript" src="{{ site.url }}{{ site.baseurl }}/assets/apps/control2_tanksystem/control2_tanksystem.nocache.js" defer></script>
