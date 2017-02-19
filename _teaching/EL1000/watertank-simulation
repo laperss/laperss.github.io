@@ -25,4 +25,7 @@ table-layout:fixed;
 overflow:hidden;
 position: absolute;
 }
+layout--singe {
+width: 700px;
+}
 </style>
