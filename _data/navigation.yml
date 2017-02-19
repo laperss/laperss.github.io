@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: https://laperss.github.io/
   - title: "About"
-    url: https://laperss.github.io/
+    url: /_docs/post/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
@@ -11,7 +11,7 @@ main:
   - title: "Sitemap"
     children:
        - title: "Working with Posts"
-         url: /docs/posts/
+         url: /_docs/post/
     
 docs:
   - title: Getting Started
