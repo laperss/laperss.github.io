@@ -11,6 +11,9 @@ sidebar:
 Denna vattentankssimulering skrevs av Viktor Åberg 2014.
 
 
+
+ <link rel="stylesheet" type="text/css" href="https://github.com/laperss/laperss.github.io/blob/master/assets/css/main.scss">
+
 <div width="500px" overflow="hidden" background="blue">
    <script type="text/javascript" language="javascript" src="{{ site.url }}{{ site.baseurl }}/assets/apps/control2_tanksystem/control2_tanksystem.nocache.js" defer></script>
 </div>
