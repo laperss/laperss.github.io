@@ -8,3 +8,5 @@ SCRAP was a student rocket experiment part of the REXUS programme. REXUS is done
 The scientific objective of SCRAP was the validation of theories on electron density fluctuations in dusty plasmas by measuring the scattering of ultra-high frequency radio waves on a cloud of metallic microparticles spread in the mesospheric plasma. 
 The experiment was launched from Esrange in March of 2015. 
 
+![SCRAP team with rocket]({{ site.url }}{{ site.baseurl }}/assets/images/SCRAP_team.jpg)
+
