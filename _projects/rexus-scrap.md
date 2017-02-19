@@ -9,8 +9,8 @@ The scientific objective of SCRAP was the validation of theories on electron den
 The experiment was launched from Esrange in March of 2015. 
 
 ![SCRAP team with rocket]({{ site.url }}{{ site.baseurl }}/assets/images/SCRAP_team.jpg)
-![SCRAP team with rocket]({{ site.url }}{{ site.baseurl }}/assets/images/SCRAP_rocket.jpg)
-![SCRAP team with rocket]({{ site.url }}{{ site.baseurl }}/assets/images/SEM_particles1.jpg)
-![SCRAP team with rocket]({{ site.url }}{{ site.baseurl }}/assets/images/SCRAP_team2.jpg)
+![Pre-launch]({{ site.url }}{{ site.baseurl }}/assets/images/SCRAP_rocket.jpg)
+![SEM picture of particles in agglomerated and non-agglomerated state]({{ site.url }}{{ site.baseurl }}/assets/images/SEM_particles1.jpg)
+![SCRAP team]({{ site.url }}{{ site.baseurl }}/assets/images/SCRAP_team2.jpg)
 
 
