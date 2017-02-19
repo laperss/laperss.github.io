@@ -8,5 +8,3 @@ My work included control design and evaluation as well as participation in fligh
 
 ![DLR Flying Robots team]({{ site.url }}{{ site.baseurl }}/assets/images/DLR_peng1.jpg)
 
-A video about the project:
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/l2Of1-d5E5o?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
