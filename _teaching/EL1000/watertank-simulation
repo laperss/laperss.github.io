@@ -5,7 +5,7 @@ author_profile: false
 share: false
 comments: false
 paginator: false
-layout: home
+layout: default
 sidebar:
   nav: "teaching"
 ---
