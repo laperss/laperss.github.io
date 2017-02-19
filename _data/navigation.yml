@@ -15,6 +15,7 @@ main:
   # - title: "Sample Collections"
   #   url: /collection-archive/
   - title: "Sitemap"
+    url: /sitemap/
     children:
        - title: "Working with Posts"
          url: /pages/testpage/
