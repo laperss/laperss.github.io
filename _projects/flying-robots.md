@@ -9,4 +9,4 @@ My work included control design and evaluation as well as participation in fligh
 ![DLR Flying Robots team]({{ site.url }}{{ site.baseurl }}/assets/images/DLR_peng1.jpg)
 
 A video about the project:
-<iframe width="400" height="500" frameborder="0" src="http://www.bbc.com/news/technology-35351709/embed"></iframe>
+<iframe width="640" height="360" src="http://www.bbc.com/news/technology-35351709/embed" frameborder="0" allowfullscreen></iframe>
