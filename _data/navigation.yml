@@ -17,3 +17,15 @@ main:
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
+
+projects:
+  - title: Projects
+    children:
+      - title: "NASA Aeromechanics"
+        url: /projects/quick-start-guide/
+      - title: "DLR Flying Robots"
+        url: /projects/flying-robots/
+      - title: "REXUS SCRAP"
+        url: /projects/rexus-scrap/
+      - title: "Caltech CDS"
+        url: /projects/
