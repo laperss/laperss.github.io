@@ -26,3 +26,12 @@ projects:
         url: /projects/rexus-scrap/
       - title: "Caltech CDS"
         url: /projects/
+        
+teaching:
+  - title: Courses
+    children:
+      - title: "SF1673 Analysis in one variable"
+        url: /teaching/SF1626
+      - title: "EL1000 Automatic Control"
+        url: /teaching/EL1000
+      - title: "REXUS SCRAP"
