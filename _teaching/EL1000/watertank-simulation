@@ -13,7 +13,7 @@ Denna vattentankssimulering skrevs av Viktor Åberg 2014.
 
 <style>
 table {
-width: 500px;
+width: 800px;
 table-layout:fixed;
 overflow:hidden;
 }
