@@ -8,6 +8,8 @@ main:
     url: /research/
   - title: "Projects"
     url: /projects/
+    sidebar:
+      nav: "projects"
     children:
        - title: "REXUS SCRAP"
          url: /projects/rexus-scrap/
