@@ -16,4 +16,4 @@ The experiment was launched from Esrange in March of 2015.
 
 ![SCRAP team]({{ site.url }}{{ site.baseurl }}/assets/images/SCRAP_team2.jpg)
 
-<video src="{{ site.url }}{{ site.baseurl }}/assets/videos/SCRAP_liftoff.mp4" width="320" height="200" controls preload></video>
+<video src="{{ site.url }}{{ site.baseurl }}/assets/videos/SCRAP_liftoff.mp4" width="320" controls preload></video>
