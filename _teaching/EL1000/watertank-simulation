@@ -12,7 +12,7 @@ Denna vattentankssimulering skrevs av Viktor Åberg 2014.
  <br></br>
 
 
- <img src="{{ site.url }}{{ site.baseurl }}/assets/images/tank.gif" alt="Vattentank" style="height:300px;">
+ <img src="{{ site.url }}{{ site.baseurl }}/assets/images/tank.gif" alt="Vattentank" style="height:300px;float:right">
  <br></br>
  
 <style>
