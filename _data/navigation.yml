@@ -1,9 +1,7 @@
 # main links
 main:
-  - title: "Home"
-    url: https://laperss.github.io/
   - title: "About"
-    url: /about/
+    url: https://laperss.github.io/
   - title: "Research"
     url: /research/
   - title: "Projects"
