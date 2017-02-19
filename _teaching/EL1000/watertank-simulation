@@ -19,6 +19,6 @@ overflow:hidden;
 }
 </style>
 
-<div width="500" overflow="auto">
+<div width="500px" overflow="auto">
    <script type="text/javascript" language="javascript" src="{{ site.url }}{{ site.baseurl }}/assets/apps/control2_tanksystem/control2_tanksystem.nocache.js" defer></script>
 </div>
