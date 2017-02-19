@@ -24,4 +24,11 @@ table-layout:fixed;
 overflow:hidden;
 position: absolute;
 }
+div {
+max-width: 800px;
+background:red;
+table-layout:fixed;
+overflow:hidden;
+position: absolute;
+}
 </style>
