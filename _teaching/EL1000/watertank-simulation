@@ -10,7 +10,7 @@ sidebar:
 ---
 Denna vattentankssimulering skrevs av Viktor Åberg 2014.
 
-![Tanksystem]({{ site.url }}{{ site.baseurl }}/assets/images/tank.gif)
+[[({{ site.url }}{{ site.baseurl }}/assets/images/tank.gif)| height = 100px ]]
 
 
 <style>
