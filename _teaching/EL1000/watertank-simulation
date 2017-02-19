@@ -11,7 +11,9 @@ sidebar:
 Denna vattentankssimulering skrevs av Viktor Åberg 2014.
 
 
- <img src="{{ site.url }}{{ site.baseurl }}/assets/images/tank.gif" alt="Vattentank" style="height:200px;">
+ <img src="{{ site.url }}{{ site.baseurl }}/assets/images/tank.gif" alt="Vattentank" style="height:300px;">
+ 
+ 
 <style>
 table {
 max-width: 800px;
