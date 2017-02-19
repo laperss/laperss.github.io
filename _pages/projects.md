@@ -9,3 +9,4 @@ author_profile: false
 redirect_from:
   - /home/
 ---
+Here you can find info about some projects that I have taken part in during my time at KTH.
