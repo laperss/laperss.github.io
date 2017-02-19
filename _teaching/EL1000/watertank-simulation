@@ -9,6 +9,7 @@ sidebar:
   nav: "teaching"
 ---
 Denna vattentankssimulering skrevs av Viktor Åberg 2014.
+ <br></br>
 
 
  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/tank.gif" alt="Vattentank" style="height:300px;">
