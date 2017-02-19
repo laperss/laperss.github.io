@@ -26,10 +26,10 @@ projects:
         url: /projects/caltech-cds/
         
 teaching:
-  - title: "SF1625 Single variable calculus"
-    url: /teaching/SF1625
   - title: "EL1000 Automatic Control"
     url: /teaching/EL1000
     children: 
     - title: "Vattentankssimulering"
       url: /teaching/EL1000/watertank-simulation
+  - title: "SF1625 Single variable calculus"
+    url: /teaching/SF1625
