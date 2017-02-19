@@ -1,0 +1,12 @@
+---
+title: "Vattentankssimulering"
+layout: single
+author_profile: false
+share: false
+comments: false
+sidebar:
+  nav: "teaching"
+---
+Denna vattentankssimulering skrevs av Viktor Åberg 2014.
+
+<script type="text/javascript" language="javascript" src="assets/apps/control2_tanksystem/tanksystem.nocache.js"></script>
