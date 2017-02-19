@@ -23,6 +23,5 @@ table {
 max-width: 800px;
 background:green;
 overflow:hidden;
-position: absolute;
 }
 </style>
