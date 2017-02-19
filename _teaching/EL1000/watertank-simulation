@@ -17,6 +17,7 @@ max-width: 800px;
 background:green;
 table-layout:fixed;
 overflow:hidden;
+position: absolute;
 }
 </style>
 
