@@ -12,12 +12,12 @@ redirect_from:
 Here you can find info about some projects that I have taken part in during my time at KTH.
 
 
-    {% capture label %}{{ projects.label }}{% endcapture %}
-    {% if label != written_label %}
-      <h2 id="{{ label | slugify }}" class="archive__subtitle">{{ label }}</h2>
-      {% capture written_label %}{{ label }}{% endcapture %}
-    {% endif %}
-  
+  {% capture label %}{{ projects.label }}{% endcapture %}
+  {% if label != written_label %}
+    <h2 id="{{ label | slugify }}" class="archive__subtitle">{{ label }}</h2>
+    {% capture written_label %}{{ label }}{% endcapture %}
+  {% endif %}
+
   {% for post in projects.docs %}
       {% include archive-single.html %}
   {% endfor %}
