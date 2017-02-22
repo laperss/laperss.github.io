@@ -14,13 +14,13 @@ main:
   #   url: /collection-archive/
 
 projects:
-  - title: "NASA Aeromechanics"
+  - title: "NASA Experimental Tiltrotor"
     url: /projects/nasa-aeromechanics/
   - title: "DLR Flying Robots"
     url: /projects/flying-robots/
   - title: "REXUS SCRAP"
     url: /projects/rexus-scrap/
-  - title: "Caltech CDS"
+  - title: "Caltech Aircraft EPS"
     url: /projects/caltech-cds/
         
 teaching:
