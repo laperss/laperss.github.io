@@ -20,6 +20,9 @@ projects:
     url: /projects/flying-robots/
   - title: "REXUS SCRAP"
     url: /projects/rexus-scrap/
+    children:
+    - title: "Launch video"
+      url: /projects/rexus-scrap/launch
   - title: "Caltech Aircraft EPS"
     url: /projects/caltech-cds/
         
