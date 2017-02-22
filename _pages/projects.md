@@ -25,4 +25,3 @@ Here you can find info about some projects that I have taken part in during my t
       {% include archive-single.html %}
     {% endunless %}
   {% endfor %}
-{% endfor %}
