@@ -14,16 +14,14 @@ main:
   #   url: /collection-archive/
 
 projects:
-  - title: Projects
-    children:
-      - title: "NASA Aeromechanics"
-        url: /projects/nasa-aeromechanics/
-      - title: "DLR Flying Robots"
-        url: /projects/flying-robots/
-      - title: "REXUS SCRAP"
-        url: /projects/rexus-scrap/
-      - title: "Caltech CDS"
-        url: /projects/caltech-cds/
+  - title: "NASA Aeromechanics"
+    url: /projects/nasa-aeromechanics/
+  - title: "DLR Flying Robots"
+    url: /projects/flying-robots/
+  - title: "REXUS SCRAP"
+    url: /projects/rexus-scrap/
+  - title: "Caltech CDS"
+    url: /projects/caltech-cds/
         
 teaching:
   - title: "EL1000 Automatic Control"
