@@ -1,5 +1,6 @@
 ---
 title: "Experimental Tiltrotor Control"
+permalink: /projects/nasa-aeromechanics/
 excerpt: "Internship at the NASA Ames Aeromechanics office"
 ---
 
