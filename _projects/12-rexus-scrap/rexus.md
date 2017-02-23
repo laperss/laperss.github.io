@@ -1,5 +1,6 @@
 ---
 title: "The REXUS Programme"
+permalink: /projects/rexus-scrap/rexus/
 excerpt: "REXUS - Rocket EXperiments for University Students."
 ---
 
