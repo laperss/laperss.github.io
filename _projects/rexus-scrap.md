@@ -15,5 +15,3 @@ The experiment was launched from Esrange in March of 2015.
 ![SEM picture of particles in agglomerated and non-agglomerated state]({{ site.url }}{{ site.baseurl }}/assets/images/SEM_particles1.png)
 
 ![SCRAP team]({{ site.url }}{{ site.baseurl }}/assets/images/SCRAP_team2.jpg)
-
-<video src="{{ site.url }}{{ site.baseurl }}/assets/videos/SCRAP_liftoff.mp4" width="100%" controls preload></video>
