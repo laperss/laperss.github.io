@@ -28,7 +28,9 @@ projects:
     url: /projects/rexus-scrap/
     children:
     - title: "Launch video"
-      url: /projects/rexus-scrap/launch
+      url: /projects/rexus-scrap/launch/
+    - title: "About REXUS"
+      url: /projects/rexus-scrap/rexus/
   - title: "Caltech Aircraft EPS"
     url: /projects/caltech-cds/
         
