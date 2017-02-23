@@ -18,6 +18,9 @@ projects:
     url: /projects/nasa-aeromechanics/
   - title: "DLR Flying Robots"
     url: /projects/flying-robots/
+    children:
+    - title: "Landing video"
+      url: /projects/flying-robots/video-landing
   - title: "REXUS SCRAP"
     url: /projects/rexus-scrap/
     children:
