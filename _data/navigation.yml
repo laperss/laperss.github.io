@@ -16,6 +16,9 @@ main:
 projects:
   - title: "NASA Experimental Tiltrotor"
     url: /projects/nasa-aeromechanics/
+    children:
+    - title: "Apply"
+      url: /projects/nasa-aeromechanics/apply/
   - title: "DLR Flying Robots"
     url: /projects/flying-robots/
     children:
