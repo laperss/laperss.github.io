@@ -1,5 +1,6 @@
 ---
 title: "REXUS SCRAP Experiment Team"
+permalink: /projects/rexus-scrap/
 excerpt: "A Student rocket experiment on microparticles in the mesosphere."
 ---
 
