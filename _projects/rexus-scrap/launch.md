@@ -1,5 +1,6 @@
 ---
 title: "REXUS SCRAP Launch video"
+permalink: /projects/rexus-scrap/launch/
 excerpt: "Launch on March 17, 2015, from Esrange,  Kiruna."
 author_profile: false
 share: false
