@@ -1,5 +1,6 @@
 ---
 title: "DLR Flying Robots"
+permalink: /projects/flying-robots/
 excerpt: "Master thesis in the DLR Flying Robots Group."
 ---
 During my master thesis I joined the Flying Robots Group at the Robotics and Mechatronics Center at DLR Oberpfaffenhofen in their project on high-altitude long-endurance UAVs. 
