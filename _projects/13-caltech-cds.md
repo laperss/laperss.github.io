@@ -1,5 +1,6 @@
 ---
 title: "Electric Power System testbed"
+permalink: /projects/caltech-cds/
 excerpt: "Summer internship at caltech."
 ---
 I did work with state detection and control of aircraft electric power systems.
