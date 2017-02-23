@@ -11,7 +11,7 @@ title                    : "Linnea Persson"
 title_separator          : "-"
 name                     : "Linnea Persson"
 description              : "PhD student in Automatic Control at KTH Royal Institute of Technology."
-url                      : https://laperss.github.io
+url                      : https://people.kth.se/~laperss
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -48,7 +48,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification : "google30b697588e26c5d3"
+google_site_verification : "jbE94D8lsUtGP6P9yQFV4GceWMEmx1mG86JGgxY5xrk"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
