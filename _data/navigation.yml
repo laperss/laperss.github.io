@@ -38,6 +38,14 @@ teaching:
   - title: "EL1000 Automatic Control"
     url: /teaching/EL1000
     children: 
+    - title: "Ö1: Stegsvar & Poler"
+      url: /teaching/EL1000/lecture_1
+    - title: "Ö2: PID"
+      url: /teaching/EL1000/lecture_2
+    - title: "Ö3:  	Dämpning, Rotort"
+      url: /teaching/EL1000/lecture_3
+    - title: "D3:  Matlab, Stegsvar "
+      url: /teaching/EL1000/lecture_4
     - title: "Vattentankssimulering"
       url: /teaching/EL1000/watertank-simulation
   - title: "SF1625 Single variable calculus"
