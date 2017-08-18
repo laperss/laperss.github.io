@@ -37,7 +37,9 @@ projects:
 teaching:
   - title: "EL1000 Automatic Control"
     url: /teaching/EL1000
-    children: 
+    children:
+    - title: "Förkunskapskrav"
+      url: /teaching/EL1000/prerequisites
     - title: "Ö1: Stegsvar & Poler"
       url: /teaching/EL1000/lecture_1
     - title: "Ö2: PID"
