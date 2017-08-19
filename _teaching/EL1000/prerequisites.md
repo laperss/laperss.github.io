@@ -14,6 +14,7 @@ Innan kursen påbörjas förväntas studenten ha vissa förkunskaper. Några bit
 
 * [Imaginära tal](#imaginära-tal)
 * [Differentialekvationer](#differentialekvationer)
+* [Exempel: Första ordningens system](#exempel-första-ordningens-system)
 
 ## Imaginära tal
 Ett imaginärt tal består av en realdel och en imaginärdel. De två vanligaste representationerna för imaginära tal är __rektangulär form__ och __polär form__, se [figur](#imaginary_figure).
@@ -22,7 +23,7 @@ $$
 z = \underbrace{a + bi}_{Rektangulär} = \underbrace{re^{i\theta}}_{Polär}
 $$
 
-Båda representationerna har sina fördelar. Den rektangulära formen är enkel vid addition av imaginära tal, medans den polära representationen har fördelen att vi direkt kan räkna ut både belopp (storlek) och argument (vinkel):
+Båda representationer har sina fördelar. Rektangulär form är smidig vid addition av imaginära tal, och polär form har fördelen att vi direkt kan räkna ut både belopp (storlek) och argument (vinkel):
 
 \begin{align}
 |z| & = \sqrt{a^2+b^2}=r \nonumber \\\\\arg(z) & = \arctan{\frac{b}{a}}~=\theta \nonumber
@@ -45,7 +46,8 @@ $$
 y = y_h + y_p
 $$
 
-### Homogen lösning
+__Homogen lösning__
+
 Den homogena lösningen  är lösningen till motsvarande homogena differentialekvation, och fås från lösningen till det karakteristiska polynomet:
 \begin{equation}
 (\lambda^n + a_1 \lambda^{n-1} + \ldots + a_n) = 0 \nonumber
@@ -54,7 +56,8 @@ Denna ekvation har  $n$ stycken rötter, som antingen är:
 * reella tal: $\lambda = p$
 * komplexa talpar: $\lambda_1 = a+bi,~~\lambda_2 = a-bi$
 
-### Partikulärlösning
+__Partikulärlösning__
+
 Partikulärlösningen hittas ofta genom att man ansätter att en lösning ska ha en viss form, för att därefter lösa ut konstanterna. 
 
 ### Exempel: första ordningens system
@@ -62,7 +65,7 @@ Lös följande differentialekvation:
 \begin{align}\label{eq:ex1}
 10 \dot y(t) &+  y(t) = 2 u(t) 
 \end{align}
-med insignal $u(t) = 1$.
+med insignal $u(t) = 1$ då y(0) = 0.
 
 Den homogena lösningen fås av:
 \begin{align}
@@ -74,9 +77,18 @@ $$
 \lambda + \frac{1}{10} = 0 \nonumber \implies \lambda = -\frac{1}{10} \implies y_h = Ce^{-1/10t}
 $$
 
-För partikulärlösningen ses direkt lösningen $ y_p = 2 $.
+För partikulärlösningen ses direkt lösningen $ y_p = 2 $. Från detta vet vi att differentialekvationen har formen $ y(t) = Ce^{-1/10t} + 2$. Den sista konstanten löser vi ut från begynnelsevilkoret:
 
-__Svar:__   $ y(t) = Ce^{-1/10t} + 2$
+$$
+ y(0) = Ce^{0} + 2 = 0 \implies C = -2 
+$$
+
+![Figure: Step response for the differential equation.]( {{ site.url }}{{ site.baseurl }}/assets/images/step_response.png ){:width="500px" .center-image}
+
+
+__Svar:__   $ y(t) = 2\left(1-e^{-1/10t} \right)$
+
+
 
 
 [^1]: Sätt högerledet till noll så fås den homogena differentialekvationen. 
