@@ -1,6 +1,6 @@
 ---
 title: "Vattentankssimulering"
-layout: single_js
+layout: single
 author_profile: false
 share: false
 comments: false

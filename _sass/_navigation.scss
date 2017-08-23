@@ -417,6 +417,11 @@
   ul {
     font-size: 0.9rem; 
     text-indent: 0.3rem;
+
+    li {
+      margin:0 8px 8px 0;
+      vertical-align:top
+    }
   }
 
   .active {
@@ -477,7 +482,7 @@
   font-size: $type-size-6;
   font-weight: bold;
   text-transform: uppercase;
-  border-bottom: 1px solid $border-color;
+  border-bottom: 2px solid $border-color;
   
    .active {
     margin-left: -0.5em;
