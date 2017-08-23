@@ -21,7 +21,11 @@ Förra veckan betraktade vi (mestadels) system utan styrning. Nu lägger vi äve
 
 __Öppen styrning:__ När vi påverkar ett system med en insignal, utan att ta hänsyn till tillståndet hos systemet. Till exempel mikrovågsugn, diskmaskin, eller torktumlare. 
 
+![Figure: Step response for the differential equation.]( {{ site.url }}{{ site.baseurl }}/assets/images/öppen_styrning.png ){:width="350px" .center-image}
+
 __Med återkoppling:__ När insignalen beror på tillståndet hos systemet, eller på en mätbar utsignal. Exempelvis bilkörning, segway, flygplan.
+
+![Figure: Step response for the differential equation.]( {{ site.url }}{{ site.baseurl }}/assets/images/stängd_styrning.png ){:width="350px" .center-image}
 
 ## PID-regulatorn
 
