@@ -15,6 +15,7 @@ Innan kursen påbörjas förväntas studenten ha vissa förkunskaper. Några bit
 * [Imaginära tal](#imaginära-tal)
 * [Differentialekvationer](#differentialekvationer)
 * [Exempel: Första ordningens system](#exempel-första-ordningens-system)
+* [Linjärisering](#linjärisering)
 
 ## Imaginära tal
 Ett imaginärt tal består av en realdel och en imaginärdel. De två vanligaste representationerna för imaginära tal är __rektangulär form__ och __polär form__, se [figur](#imaginary_figure).
@@ -89,6 +90,8 @@ $$
 __Svar:__   $ y(t) = 2\left(1-e^{-1/10t} \right)$
 
 
+## Linjärisering
+I verkligheten är de flesta system icke-linjära, men i denna kurs behandlar vi enbart linjära system. För att uppskatta en linjär funktion från från en icke-linjär använder vi oss av linjärisering. 
 
 
 [^1]: Sätt högerledet till noll så fås den homogena differentialekvationen. 
