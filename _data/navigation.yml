@@ -37,8 +37,8 @@ projects:
 teaching:
   - title: "EL1000 Automatic Control"
     url: /teaching/EL1000
-    children: 
-    - title: "Förkunskaper"
+    children:
+    - title: "Förkunskapskrav"
       url: /teaching/EL1000/prerequisites
     - title: "Ö1: Stegsvar & Poler"
       url: /teaching/EL1000/lecture_1
@@ -52,3 +52,5 @@ teaching:
       url: /teaching/EL1000/watertank-simulation
   - title: "SF1625 Single variable calculus"
     url: /teaching/SF1625
+  - title: "SF1659 Mathematics basic course"
+    url: /teaching/SF1659
