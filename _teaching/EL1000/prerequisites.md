@@ -1,5 +1,5 @@
 ---
-title: "Förkunskapskrav"
+title: "Förkunskaper"
 layout: single
 author_profile: false
 share: false
@@ -38,7 +38,7 @@ Båda representationer har sina fördelar. Rektangulär form är smidig vid addi
 I denna kurs behandlar vi linjära differentialekvationer på formen:
 
 \begin{align}
-\frac{d^ny(t)}{dt^n} &+ a_1 \frac{d^{n-1}y(t)}{dt^{n-1}} + \ldots + a_n y(t) \nonumber \\\\ &= b_0  \frac{d^{n}u(t)}{dt^{n}} + b_1 \frac{d^{n-1}u(t)}{dt^{n-1}} + \ldots + b_n  u(t) \nonumber
+\frac{d^ny}{dt^n} &+ a_1 \frac{d^{n-1}y}{dt^{n-1}} + \ldots + a_n y \nonumber \\\\ &= b_0  \frac{d^{m}u}{dt^{m}} + b_1 \frac{d^{m-1}u}{dt^{m-1}} + \ldots + b_m  u \nonumber
 \end{align}
 
 Lösningen beräknas som summan av en  __homogen lösning__[^1] (även kallad _allmän lösning_) och en en __partikulärlösning__[^2]:
@@ -56,6 +56,19 @@ Den homogena lösningen  är lösningen till motsvarande homogena differentialek
 Denna ekvation har  $n$ stycken rötter, som antingen är:
 * reella tal: $\lambda = p$
 * komplexa talpar: $\lambda_1 = a+bi,~~\lambda_2 = a-bi$
+
+
+Rötterna ger oss den homogena lösningen som: 
+
+$$
+y_h(t) = \sum_{j=1}^n \alpha_j e^{\lambda_j t} 
+$$
+
+där $\lambda_j$ är den $j$:te roten och  $\alpha_j$ är koefficienter. Notera att 
+* Om $\lambda_j$ har positiv realdel så växer $y_h$ obegränsat
+* Om imaginärdelen är $0$ blir bidraget rent exponentiellt. 
+* Ett komplext talpar ger oscillationer (tänk på Eulers formel). Ju större imaginärdel desto mer kommer det osciellera. 
+
 
 __Partikulärlösning__
 

@@ -21,9 +21,17 @@ Förra veckan betraktade vi (mestadels) system utan styrning. Nu lägger vi äve
 
 __Öppen styrning:__ När vi påverkar ett system med en insignal, utan att ta hänsyn till tillståndet hos systemet. Till exempel mikrovågsugn, diskmaskin, eller torktumlare. 
 
+$$
+G_o(s) = F(s)G(s)
+$$
+
 ![Figure: Step response for the differential equation.]( {{ site.url }}{{ site.baseurl }}/assets/images/öppen_styrning.png ){:width="350px" .center-image}
 
 __Med återkoppling:__ När insignalen beror på tillståndet hos systemet, eller på en mätbar utsignal. Exempelvis bilkörning, segway, flygplan.
+
+\begin{eqnarray}
+Y(s) = G(s)F(s)\left( Y_{ref}-Y)\right) \nonumber \\\\ \implies Y(s)\left(1+G(s)F(s)\right) = G(s)F(s)Y_{ref}\nonumber \\\\ \implies Y(s) = \frac{G(s)F(s)}{1+G(s)F(s)}Y_{ref} \nonumber
+\end{eqnarray}
 
 ![Figure: Step response for the differential equation.]( {{ site.url }}{{ site.baseurl }}/assets/images/stängd_styrning.png ){:width="350px" .center-image}
 

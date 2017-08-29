@@ -22,7 +22,7 @@ I klassisk reglerteknik löser vi ofta problem i __frekvensdomänen__. Med hjäl
 
 
 \begin{align}
-Y(s) = \underbrace{\frac{b_0s^n + b_1s^{n+1} + \ldots + b_n}{s^n + a_1 s^{n-1} + \ldots +a_n}}_{G(s)} U(s)
+Y(s) = \underbrace{\frac{b_0s^m + b_1s^{m-1} + \ldots + b_m}{s^n + a_1 s^{n-1} + \ldots +a_n}}_{G(s)} U(s)
 \end{align}
 Rötterna till täljaren hos överföringsfunktionen $G(s)$ är systemets nollställen, och rötterna till nämnaren är systemets poler. Notera hur polerna motsvaras av lösningarna till den karakteristiska ekvationen.
 
@@ -45,6 +45,9 @@ har två poler som ligget i $s = \omega_0(-\zeta \pm i\sqrt{1-\zeta^2})$. Polern
 
 ## Pol/nollställe-diagram
 Beteendet hos ett dynamiskt system kan beskrivas med positionen av dess poler och nollställen. Om vi känner till placeringen av polerna och nollställena kan vi avgöra stabiliteten hos systemet, och även om det oscillerar, är snabbt, m.m. Några tumregler är:
+* Positiv realdel ger ett instabilt system
+* En pol i origo har en effekt motsvarande en integrator. 
+
 * De poler som är närmast origo kommer att dominera över de långt borta. Alternativt kan vi uttrycka detta som att snabba poler (stor realdel)  försvinner snabbare än långsamma poler (liten  realdel). 
 * Den odämpade egenfrekvensen $\omega_0$ mäts från vinkeln mellan realaxeln och polen. Man vill oftast att polerna ska ligga innanför en kon enligt [figur](#poles) för att systemet inte ska bete sig för oscillerande.
 
@@ -74,6 +77,7 @@ När vi betraktar stegsvaret kan vi observera flera karaktärsdrag i svaret, bla
 * översläng 
 * tidsfördröjning
 * snabbhet
+Med hjälp av dessa kan vi lista ut hur ett system bör matcha med pol/nollställe-diagram.
 
 ## Övningsuppgifter
 2.5, 2.10, 2.11
