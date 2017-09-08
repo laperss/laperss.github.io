@@ -44,10 +44,28 @@ teaching:
       url: /teaching/EL1000/lecture_1
     - title: "Ö2: PID"
       url: /teaching/EL1000/lecture_2
-    - title: "Ö3:  	Dämpning, Rotort"
+    - title: "Ö3:  Dämpning, Rotort"
       url: /teaching/EL1000/lecture_3
-    - title: "D3:  Matlab, Stegsvar "
+    - title: "D4:  Matlab, Stegsvar "
       url: /teaching/EL1000/lecture_4
+    - title: "Ö5:  Nyqvistkriteriet"
+      url: /teaching/EL1000/lecture_5
+    - title: "Ö6:  Bodediagram"
+      url: /teaching/EL1000/lecture_6
+    - title: "D7: Rotort, Nyqvist, Bode"
+      url: /teaching/EL1000/lecture_7
+    - title: "Ö8:  Lead-lag, Robusthet"
+      url: /teaching/EL1000/lecture_8
+    - title: "Ö9:  Tillståndsform"
+      url: /teaching/EL1000/lecture_9
+    - title: "Ö10:  Styr-, observerbarhet"
+      url: /teaching/EL1000/lecture_10
+    - title: "D11:  Tillståndsform"
+      url: /teaching/EL1000/lecture_11
+    - title: "Ö12:  Tillståndsåterkoppling"
+      url: /teaching/EL1000/lecture_12
+    - title: "Ö13:  Tidsdiskreta system"
+      url: /teaching/EL1000/lecture_13
     - title: "Vattentankssimulering"
       url: /teaching/EL1000/watertank-simulation
   - title: "SF1625 Single variable calculus"
