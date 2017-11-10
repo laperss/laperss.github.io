@@ -13,6 +13,20 @@ main:
   # - title: "Sample Collections"
   #   url: /collection-archive/
 
+research:
+  - title: "Publications"
+    url: /research/publications/
+    children:
+    - title: "Papers"
+      url: /research/publications/
+    - title: "Theses"
+      url: /research/publications/
+  - title: "Research Projects"
+    url: /research/projects/
+    children:
+    - title: "Cooperative Rendezvous"
+      url: /research/projects/
+
 projects:
   - title: "NASA Experimental Tiltrotor"
     url: /projects/nasa-aeromechanics/
@@ -33,7 +47,17 @@ projects:
       url: /projects/rexus-scrap/rexus/
   - title: "Caltech Aircraft EPS"
     url: /projects/caltech-cds/
-        
+
+projects-only:
+  - title: "NASA Experimental Tiltrotor"
+    url: /projects/nasa-aeromechanics/
+  - title: "DLR Flying Robots"
+    url: /projects/flying-robots/
+  - title: "REXUS SCRAP"
+    url: /projects/rexus-scrap/
+  - title: "Caltech Aircraft EPS"
+    url: /projects/caltech-cds/
+
 teaching:
   - title: "EL1000 Automatic Control"
     url: /teaching/EL1000

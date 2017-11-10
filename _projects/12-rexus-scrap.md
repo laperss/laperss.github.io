@@ -2,6 +2,9 @@
 title: "REXUS SCRAP Experiment Team"
 permalink: /projects/rexus-scrap/
 excerpt: "A Student rocket experiment on microparticles in the mesosphere."
+header:
+  image: 
+  teaser: ../assets/images/SCRAP_rocket.jpg
 ---
 
 SCRAP was a student rocket experiment part of the REXUS programme. REXUS is done in cooperation with the German Aerospace Center (DLR), the Swedish National Space Board (SNSB), and the European Space Agency (ESA). 

@@ -1,10 +1,12 @@
 ---
 title: "Publications"
-permalink: /publications/
-redirect_from:
-  - /home/
+layout: single
+share: false
+comments: false
+sidebar:
+  nav: "research"
 ---
-List of publications I have authored or co-authored. 
+
 
 ## Papers
 
