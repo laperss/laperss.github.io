@@ -4,9 +4,9 @@ permalink: /projects/
 excerpt: "Projects that I have taken part in."
 author_profile: true
 redirect_from:
-  - /home/
+   - /home/
 ---
-Here you can find info about some projects that I have taken part in during my time at KTH.
+Here you can find info about some projects that I have taken part in during my bachelors and masters at KTH.
 
 
 
@@ -15,27 +15,10 @@ Here you can find info about some projects that I have taken part in during my t
 <div class="cf">
 <div class="grid__wrapper">
   {% for post in site.projects %}
-    {% include archive-single.html type="grid" %}
+    {% if  post.parent == true %}
+      {% include archive-single.html type="grid" %}
+    {% endif %}  
   {% endfor %}
 </div>
 </div>
 
-
-
-<div class="cf">
-PROJECTS: 
-   {% for item in site.data.navigation.projects-only  %}
-	{{ item }}
-    {% include archive-single.html type="grid" %}
-   {% endfor %}
-</div>
-
-<div class="cf">
-PROJECTS: 
-  {% for post in site.projects %}
-  {{ post.url }}
-  {{ post.title }}
-{% endfor %}
-
-
-</div>
