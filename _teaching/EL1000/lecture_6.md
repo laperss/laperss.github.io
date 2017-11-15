@@ -5,7 +5,7 @@ share: false
 comments: true
 use_math: true
 sidebar:
-  nav: "teaching"
+  nav: "el1000"
 ---
 # Frekvensbeskrivning
 Funktioner kan via Fouriertransformen beskrivas med hjälp av sinus- och cosinusfunktioner genom att funktionens frekvensinnehåll summeras (eller integreras). 
