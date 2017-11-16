@@ -5,11 +5,11 @@ share: false
 comments: true
 use_math: true
 sidebar:
-  nav: "teaching"
+  nav: "el1000"
 ---
 
 ## Nyquistkriteriet
-__Cauchys argumentprincip.__ *Låt $f$ vara  analytisk, med undantag för ändligt många poler, i ett öppet område $\Omega$. Låt $\gamma$ omsluta alla poler och nollställen enkelt.  Då gäller:*
+__Cauchys argumentprincip.__[^1] *Låt $f$ vara  analytisk, med undantag för ändligt många poler, i ett öppet område $\Omega$. Låt $\gamma$ omsluta alla poler och nollställen enkelt.  Då gäller:*
 
 $$
 N-P = \frac{1}{2\pi i} \oint_C \frac{f'(z)}{f(z)} dz
@@ -21,7 +21,7 @@ Integralen i högerledet tolkas  som variationen av argumentet. Det är en slute
 För ett slutet system ges polerna av nollställena till $(1+G_o(s))$. Låt $\gamma$ vara en kurva som omsluter hela höger halvplan, och betrakta $\gamma'$ som då genomlöps av $G_o(s)$. 
 
 
-__Nyquistkriteriet.__ *Antal poler i HHP till det återkopplade systemet är lika med antalet poler i HHP för det öppna systemet, plus antalet varv som $\gamma'$ omsluter punkten -1 i positiv riktning.*
+__Nyquistkriteriet.__[^2] *Antal poler i HHP till det återkopplade systemet är lika med antalet poler i HHP för det öppna systemet, plus antalet varv som $\gamma'$ omsluter punkten -1 i positiv riktning.*
 
 
 ## Nyquistkurvan
@@ -33,3 +33,6 @@ Dessutom behövs en stor halvcirkel med radie $R\to\infty$ som omsluter högra h
 
 ## Övningsuppgifter
 3.15, 3.16a, 3.17
+
+[^1]: [https://sv.wikipedia.org/wiki/Argumentprincipen](https://sv.wikipedia.org/wiki/Argumentprincipen)
+[^2]: T. Glad och L. Ljung, "Reglerteknik, grundläggande teori," Kapitel 3.8.

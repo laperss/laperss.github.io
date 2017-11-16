@@ -5,7 +5,7 @@ share: false
 comments: true
 use_math: true
 sidebar:
-  nav: "teaching"
+  nav: "el1000"
 ---
 ## Grundläggande Matlabkommandon
 

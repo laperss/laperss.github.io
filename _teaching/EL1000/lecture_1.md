@@ -7,7 +7,7 @@ use_math: true
 use_bigfoot: true
 comments: true
 sidebar:
-  nav: "teaching"
+  nav: "el1000"
 ---
 
 ## Innehåll

@@ -7,11 +7,10 @@ main:
   - title: "Projects"
     url: /projects/
   - title: "Teaching"
-    url: /teaching/EL1000/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+    url: /teaching/
+    children:
+    - title: "EL1000 Automatic Control"
+      url: /teaching/EL1000
 
 research:
   - title: "Publications"
@@ -88,3 +87,43 @@ teaching:
     url: /teaching/SF1625
   - title: "SF1659 Mathematics basic course"
     url: /teaching/SF1659
+
+el1000:
+  - title: "EL1000: Reglerteknik"
+    url: /teaching/EL1000
+  - title: "Förkunskaper"
+    url: /teaching/EL1000/prerequisites
+  - title: "Övningar"
+    url: /teaching/EL1000/lecture_1
+    children:
+    - title: "Stegsvar & Poler"
+      url: /teaching/EL1000/lecture_1
+    - title: "PID"
+      url: /teaching/EL1000/lecture_2
+    - title: "Dämpning, Rotort"
+      url: /teaching/EL1000/lecture_3
+    - title: "Nyqvistkriteriet"
+      url: /teaching/EL1000/lecture_5
+    - title: "Bodediagram"
+      url: /teaching/EL1000/lecture_6
+    - title: "Lead-lag, Robusthet"
+      url: /teaching/EL1000/lecture_8
+    - title: "Tillståndsform"
+      url: /teaching/EL1000/lecture_9
+    - title: "Styr-, observerbarhet"
+      url: /teaching/EL1000/lecture_10
+    - title: "Tillståndsåterkoppling"
+      url: /teaching/EL1000/lecture_12
+    - title: "Tidsdiskreta system"
+      url: /teaching/EL1000/lecture_13
+  - title: "Datorövningar"
+    url: /teaching/EL1000/lecture_4
+    children:
+    - title: "Matlab, Stegsvar"
+      url: /teaching/EL1000/lecture_4
+    - title: "Rotort, Nyqvist, Bode"
+      url: /teaching/EL1000/lecture_7
+    - title: "Tillståndsform"
+      url: /teaching/EL1000/lecture_11
+  - title: "Vattentankssimulering"
+    url: /teaching/EL1000/watertank-simulation
