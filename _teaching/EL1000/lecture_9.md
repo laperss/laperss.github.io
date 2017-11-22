@@ -5,7 +5,7 @@ share: false
 comments: true
 use_math: true
 sidebar:
-  nav: "teaching"
+  nav: "el1000"
 ---
 ## Robusthet
 När vi undersöker stabiliteten hos ett system antar vi att vi känner till en modell av systemet. I verkligheten kan vi aldrig helt säkert veta modellen. Vår modell är alltid en förenkling av verkligheten. Vi kan beskriva detta matematiskt som 

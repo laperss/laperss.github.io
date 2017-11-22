@@ -5,7 +5,7 @@ share: false
 comments: true
 use_math: true
 sidebar:
-  nav: "teaching"
+  nav: "el1000"
 ---
 
 Vi kan ta hjälp av Bodediagram när vi designar vår regulator. Vi vet sedan innan att Bodediagramet beskriver bland annat följande egenskaper
