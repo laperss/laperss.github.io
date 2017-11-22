@@ -22,7 +22,9 @@ och du vill återkoppla med ett varierande _K_, så är kommandot:
   sys = 0.2/((s^2 + s + 1)*(s+0.2));
   rlocus(sys);
 ```
-Om du är intresserad av en annan återkoppling måste du börja med att skriva om systemet på rätt form. Du måste då lösa ut $P(s)$ och $Q(s)$ och sedan köra
+d.v.s. systemet du vill återkoppla proportionellt är argumentet i funktionen [rlocus](http://se.mathworks.com/help/control/ref/rlocus.html). 
+
+Om du är intresserad av en annan återkoppling (än proportionell) måste du börja med att skriva om systemet på rätt form. Du måste då lösa ut $P(s)$ och $Q(s)$ och sedan köra
 ```matlab
   s = tf('s');
   Q = 0.2
