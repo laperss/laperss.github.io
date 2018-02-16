@@ -11,20 +11,20 @@ My work here is focused on autonomous vehicle systems from a control perspective
 
 
 ## Papers
+L. Persson, B. Wahlberg ["Verification of Cooperative Maneuvers in FlightGear
+using MPC and Backwards Reachable Sets"](), 17th European Control Conference, Jun 2018
 
-L. Persson, T. Muskardin, B. Wahlberg, ["Cooperative Rendezvous of Ground Vehicle and Aerial Vehicle using Model Predictive Control"](), 56th IEEE Conference on Decision and Control, Dec 2017
+L. Persson, T. Muskardin, B. Wahlberg, ["Cooperative Rendezvous of Ground Vehicle and Aerial Vehicle using Model Predictive Control"](http://ieeexplore.ieee.org/document/8264069/), 56th IEEE Conference on Decision and Control, Dec 2017
 
 T. Muskardin, G. Balmer, L. Persson, S. Wlach, M. Laiacker,
-A. Ollero, and K. Kondak, ["A novel landing system to increase payload
-capacity and operational availability of high altitude long endurance
-UAVs"](http://rdcu.be/vQGX), Journal of Intelligent & Robotic Systems, 2017
+A. Ollero, and K. Kondak, ["A novel landing system to increase payload capacity and operational availability of high altitude long endurance UAVs"](http://rdcu.be/vQGX), Journal of Intelligent & Robotic Systems, 2017
 
 A. Grima, C. Theodore, O. Garrow, B. Lawrence, L. Persson, ["Aerodynamic Analysis of the Elytron 2S Experimental Tiltwing Aircraft"](http://papers.sae.org/2016-01-2008/), SAE Technical Paper 2016-01-2008, 2016
 
 Linnea Persson, Ben Lawrence, ["Design and Control of an Experimental  
-Tiltwing Aircraft"](https://rotorcraft.arc.nasa.gov/Publications/files/Persson%20CR-2017-219456_Final.pdf), NASA Ames Research Center ,Technical Note, March 2017
+Tiltwing Aircraft"](https://rotorcraft.arc.nasa.gov/Publications/files/Persson%20CR-2017-219456_Final.pdf), NASA Ames Research Center, Technical Note, March 2017
 
-Bergstrom, R., Crimella, M., Ivchenko, N., Karlsson, A., Lindberg, H., Persson, L., Schlatter, N., Tibert, G., Westerlund, S., ["Scattering of Radar waves on Aerosols in Plasmas"](http://pac.spaceflight.esa.int/proceedings/), 22nd ESA PAC Symposium, 2015
+Bergstrom, R., Crimella, M., Ivchenko, N., Karlsson, A., Lindberg, H., Persson, L., Schlatter, N., Tibert, G., Westerlund, S., ["Scattering of Radar waves on Aerosols in Plasmas"](http://adsabs.harvard.edu/abs/2015ESASP.730...87B), Proceedings of the 22nd ESA Symposium on European Rocket and Balloon Programmes and Related Research, June 2015
 
 
 ## Theses

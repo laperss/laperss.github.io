@@ -7,8 +7,10 @@ redirect_from:
 List of publications I have authored or co-authored. 
 
 ## Papers
+L. Persson, B. Wahlberg ["Verification of Cooperative Maneuvers in FlightGear
+using MPC and Backwards Reachable Sets"](), 17th European Control Conference, Jun 2018
 
-L. Persson, T. Muskardin, B. Wahlberg, ["Cooperative Rendezvous of Ground Vehicle and Aerial Vehicle using Model Predictive Control"](), 56th IEEE Conference on Decision and Control, Dec 2017
+L. Persson, T. Muskardin, B. Wahlberg, ["Cooperative Rendezvous of Ground Vehicle and Aerial Vehicle using Model Predictive Control"](http://ieeexplore.ieee.org/document/8264069/), 56th IEEE Conference on Decision and Control, Dec 2017
 
 T. Muskardin, G. Balmer, L. Persson, S. Wlach, M. Laiacker,
 A. Ollero, and K. Kondak, ["A novel landing system to increase payload
