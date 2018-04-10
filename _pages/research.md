@@ -21,8 +21,7 @@ A. Ollero, and K. Kondak, ["A novel landing system to increase payload capacity 
 
 A. Grima, C. Theodore, O. Garrow, B. Lawrence, L. Persson, ["Aerodynamic Analysis of the Elytron 2S Experimental Tiltwing Aircraft"](http://papers.sae.org/2016-01-2008/), SAE Technical Paper 2016-01-2008, 2016
 
-Linnea Persson, Ben Lawrence, ["Design and Control of an Experimental  
-Tiltwing Aircraft"](https://rotorcraft.arc.nasa.gov/Publications/files/Persson%20CR-2017-219456_Final.pdf), NASA Ames Research Center, Technical Note, March 2017
+Linnea Persson, Ben Lawrence, ["Design and Control of an Experimental Tiltwing Aircraft"](https://rotorcraft.arc.nasa.gov/Publications/files/Persson%20CR-2017-219456_Final.pdf), NASA Ames Research Center, Technical Note, March 2017
 
 Bergstrom, R., Crimella, M., Ivchenko, N., Karlsson, A., Lindberg, H., Persson, L., Schlatter, N., Tibert, G., Westerlund, S., ["Scattering of Radar waves on Aerosols in Plasmas"](http://adsabs.harvard.edu/abs/2015ESASP.730...87B), Proceedings of the 22nd ESA Symposium on European Rocket and Balloon Programmes and Related Research, June 2015
 
