@@ -7,7 +7,9 @@ use_math: true
 sidebar:
   nav: "el1000"
 ---
-## Grundläggande Matlabkommandon
+## MATLAB
+
+Grundläggande kommandon i MATLAB för att kolla på poler och stegsvar: 
 
 ```matlab
   % Definera variabeln s och det slutna systemet sys

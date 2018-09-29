@@ -9,6 +9,9 @@
       inlineMath: [ ['$','$'] ],
       displayMath: [ ['$$','$$'] ],
       processEscapes: true,
+    },
+    "HTML-CSS": {
+        scale: 100
     }
   });
 </script>
