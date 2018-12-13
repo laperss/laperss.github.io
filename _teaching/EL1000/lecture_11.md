@@ -1,5 +1,6 @@
 ---
 title: "Datorövning: Tillståndsform, Simulering"
+permalink: /teaching/EL1000/computer_exercise3/
 author_profile: false
 share: false
 comments: true

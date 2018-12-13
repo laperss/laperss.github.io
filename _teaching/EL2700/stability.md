@@ -1,5 +1,5 @@
 ---
-title: "Stable equlibria"
+title: "Stability definitions"
 layout: single
 author_profile: false
 share: false

@@ -56,27 +56,27 @@ teaching:
     - title: "Förkunskapskrav"
       url: /teaching/EL1000/prerequisites
     - title: "Ö1: Stegsvar & Poler"
-      url: /teaching/EL1000/lecture_1
+      url: /teaching/EL1000/stegsvar_poler
     - title: "Ö2: PID"
-      url: /teaching/EL1000/lecture_2
+      url: /teaching/EL1000/pid
     - title: "Ö3:  Dämpning, Rotort"
-      url: /teaching/EL1000/lecture_3
+      url: /teaching/EL1000/rotort
     - title: "D4:  Matlab, Stegsvar "
-      url: /teaching/EL1000/lecture_4
+      url: /teaching/EL1000/computer_exercise1
     - title: "Ö5:  Nyqvistkriteriet"
-      url: /teaching/EL1000/lecture_5
+      url: /teaching/EL1000/nyquist
     - title: "Ö6:  Bodediagram"
-      url: /teaching/EL1000/lecture_6
+      url: /teaching/EL1000/bode
     - title: "D7: Rotort, Nyqvist, Bode"
-      url: /teaching/EL1000/lecture_7
+      url: /teaching/EL1000/computer_exercise2
     - title: "Ö8:  Lead-lag, Robusthet"
-      url: /teaching/EL1000/lecture_8
+      url: /teaching/EL1000/leadlag
     - title: "Ö9:  Tillståndsform"
-      url: /teaching/EL1000/lecture_9
+      url: /teaching/EL1000/robusthet
     - title: "Ö10:  Styr-, observerbarhet"
-      url: /teaching/EL1000/lecture_10
+      url: /teaching/EL1000/styrbarhet
     - title: "D11:  Tillståndsform"
-      url: /teaching/EL1000/lecture_11
+      url: /teaching/EL1000/computer_exercise3
     - title: "Ö12:  Tillståndsåterkoppling"
       url: /teaching/EL1000/lecture_12
     - title: "Ö13:  Tidsdiskreta system"
@@ -94,36 +94,36 @@ el1000:
   - title: "Förkunskaper"
     url: /teaching/EL1000/prerequisites
   - title: "Övningar"
-    url: /teaching/EL1000/lecture_1
+    url: /teaching/EL1000/stegsvar_poler
     children:
     - title: "Stegsvar & Poler"
-      url: /teaching/EL1000/lecture_1
+      url: /teaching/EL1000/stegsvar_poler
     - title: "PID"
-      url: /teaching/EL1000/lecture_2
+      url: /teaching/EL1000/pid
     - title: "Dämpning, Rotort"
-      url: /teaching/EL1000/lecture_3
+      url: /teaching/EL1000/rotort
     - title: "Nyqvistkriteriet"
-      url: /teaching/EL1000/lecture_5
+      url: /teaching/EL1000/nyquist
     - title: "Bodediagram"
-      url: /teaching/EL1000/lecture_6
+      url: /teaching/EL1000/bode
     - title: "Lead-lag, Robusthet"
-      url: /teaching/EL1000/lecture_8
+      url: /teaching/EL1000/leadlag
     - title: "Tillståndsform"
-      url: /teaching/EL1000/lecture_9
+      url: /teaching/EL1000/robusthet
     - title: "Styr-, observerbarhet"
-      url: /teaching/EL1000/lecture_10
+      url: /teaching/EL1000/styrbarhet
     - title: "Tillståndsåterkoppling"
       url: /teaching/EL1000/lecture_12
     - title: "Tidsdiskreta system"
       url: /teaching/EL1000/lecture_13
   - title: "Datorövningar"
-    url: /teaching/EL1000/lecture_4
+    url: /teaching/EL1000/computer_exercise1
     children:
     - title: "Matlab, Stegsvar"
-      url: /teaching/EL1000/lecture_4
+      url: /teaching/EL1000/computer_exercise1
     - title: "Rotort, Nyqvist, Bode"
-      url: /teaching/EL1000/lecture_7
+      url: /teaching/EL1000/computer_exercise2
     - title: "Tillståndsform"
-      url: /teaching/EL1000/lecture_11
+      url: /teaching/EL1000/computer_exercise3
   - title: "Vattentankssimulering"
     url: /teaching/EL1000/watertank-simulation

@@ -21,7 +21,7 @@
 }
 
 .archive__subtitle {
-  margin: 1.414em 0 0;
+  margin: 1.41em 0 0;
   padding-bottom: 0.5em;
   font-size: $type-size-5;
   color: mix(#fff, $gray, 25%);
@@ -83,6 +83,14 @@
    ========================================================================== */
 
 .list__item {
+
+  .archive__item-title {
+    margin-top: 0.5em;
+    margin-bottom: 0.0em;
+    border-bottom: none;
+    font-size: $type-size-4;
+  }
+
   @include breakpoint($medium) {
     padding-right: $right-sidebar-width-narrow;
   }
@@ -99,6 +107,8 @@
     margin: 0 0 4px;
   }
 }
+
+
 
 
 /*
@@ -158,7 +168,7 @@
 .feature__item {
   margin-bottom: 2em;
   font-size: 1.25rem;
-
+  
   @include breakpoint($small) {
     margin-bottom: 0;
     @include gallery(4 of 12);
@@ -216,6 +226,104 @@
   &--center {
     @include full();
     font-size: 1.25rem;
+
+    .archive__item-teaser {
+      margin-bottom: 2em;
+    }
+
+    @include breakpoint($small) {
+      text-align: center;
+
+      .archive__item-teaser {
+        margin: 0 auto;
+        width: span(5 of 12);
+      }
+
+      .archive__item-body {
+        margin: 0 auto;
+        width: span(7 of 12);
+      }
+    }
+  }
+}
+
+
+
+/* Side list
+   ========================================================================== */
+
+.side_list__wrapper {
+  @include clearfix();
+  margin-bottom: 2em;
+  border-bottom: 1px solid $border-color;
+}
+
+.side_list__item {
+  margin-bottom: 2em;
+  font-size: 1.0rem;
+  
+  .archive__item-title {
+    margin-top: 0.5em;
+    font-size: $type-size-5;
+  }
+
+  @include breakpoint($small) {
+    margin-bottom: 0;
+    @include gallery(4 of 12);
+
+    .side_list__item-teaser {
+      max-height: 200px;
+      overflow: hidden;
+    }
+  }
+
+  &--left {
+    @include full();
+    font-size: 1.0rem;
+
+    .archive__item-teaser {
+      margin-bottom: 2em;
+    }
+
+    @include breakpoint($small) {
+      .archive__item-teaser {
+        @include span(5 of 12);
+      }
+
+      .archive__item-body {
+        @include span(7 of 12 last);
+        @include prefix(0.5 of 12);
+        @include suffix(1 of 12);
+      }
+    }
+  }
+
+  &--right {
+    @include full();
+    font-size: 1.0rem;
+
+    .archive__item-teaser {
+      margin-bottom: 2em;
+    }
+
+    @include breakpoint($small) {
+      text-align: right;
+
+      .archive__item-teaser {
+        @include span(5 of 12 rtl);
+      }
+
+      .archive__item-body {
+        @include span(7 of 12 last rtl);
+        @include prefix(0.5 of 12);
+        @include suffix(1 of 12);
+      }
+    }
+  }
+
+  &--center {
+    @include full();
+    font-size: 1.0rem;
 
     .archive__item-teaser {
       margin-bottom: 2em;

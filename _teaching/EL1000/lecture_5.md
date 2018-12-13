@@ -1,5 +1,6 @@
 ---
 title: "Nyquistkriteriet"
+permalink: /teaching/EL1000/nyquist/
 author_profile: false
 share: false
 comments: true

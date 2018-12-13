@@ -1,5 +1,6 @@
 ---
 title: Robusthet, Tillståndsform
+permalink: /teaching/EL1000/robusthet/
 author_profile: false
 share: false
 comments: true

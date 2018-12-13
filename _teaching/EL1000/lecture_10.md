@@ -1,5 +1,6 @@
 ---
 title: Styr- och observerbarhet
+permalink: /teaching/EL1000/styrbarhet/
 author_profile: false
 share: false
 comments: true

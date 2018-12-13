@@ -1,5 +1,6 @@
 ---
 title: "Dämpning, Rotort"
+permalink: /teaching/EL1000/rotort/
 author_profile: false
 share: false
 comments: true

@@ -1,5 +1,6 @@
 ---
 title: Lead-lag, Känslighet
+permalink: /teaching/EL1000/leadlag/
 author_profile: false
 share: false
 comments: true

@@ -1,5 +1,6 @@
 ---
 title: "Datorövning 2: Rotort, Nyqvist, Bode"
+permalink: /teaching/EL1000/computer_exercise2/
 author_profile: false
 share: false
 comments: true

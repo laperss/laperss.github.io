@@ -1,5 +1,6 @@
 ---
 title: Frekvenssvar, Bodediagram
+permalink: /teaching/EL1000/bode/
 author_profile: false
 share: false
 comments: true

@@ -8,6 +8,9 @@ This is the personal webpage of Linnea Persson. I am a PhD Student at the depart
 My interests include collabotarive control, optimization based control, autonomous systems and aerospace applications. 
 
 ## Recent publications
+
+L. Persson, B. Wahlberg ["Model Predictive Control for Autonomous Ship Landing in a Search and Rescue Scenario"]() AIAA Guidance, Navigation, and Control Conference, Jan 2019
+
 * L. Persson, B. Wahlberg ["Verification of Cooperative Maneuvers in FlightGear
 using MPC and Backwards Reachable Sets"](), 17th European Control Conference, Jun 2018
 
@@ -18,3 +21,11 @@ using MPC and Backwards Reachable Sets"](), 17th European Control Conference, Ju
 <iframe width="640" height="480" src="https://www.youtube.com/embed/NVoVifrLwvw?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 
+
+-----------
+
+* Video about what we are doing in the autonomous systems project of WASP
+
+The segment at KTH starts 10 minutes into the video.
+
+<iframe width="640" height="480" src="https://www.youtube.com/embed/P0ygcWLYwaM??rel=0&amp;controls=0&amp;showinfo=0;start=599" frameborder="0" allowfullscreen></iframe>

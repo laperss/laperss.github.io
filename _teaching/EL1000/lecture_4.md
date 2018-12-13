@@ -1,5 +1,6 @@
 ---
 title: "Datorövning 1: Matlab, Stegsvar"
+permalink: /teaching/EL1000/computer_exercise1/
 author_profile: false
 share: false
 comments: true

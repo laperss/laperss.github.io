@@ -1,5 +1,6 @@
 ---
 title: "Överföringsfunktioner, PID"
+permalink: /teaching/EL1000/pid/
 author_profile: false
 share: false
 comments: true

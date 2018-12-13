@@ -11,7 +11,7 @@
       processEscapes: true,
     },
     "HTML-CSS": {
-        scale: 100
+        scale: 90
     }
   });
 </script>

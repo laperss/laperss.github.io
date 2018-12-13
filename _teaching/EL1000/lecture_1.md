@@ -1,5 +1,6 @@
 ---
 title: "Terminologi, Stegsvar & Poler"
+permalink: /teaching/EL1000/stegsvar_poler/
 layout: single
 author_profile: false
 share: false
