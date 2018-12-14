@@ -50,37 +50,17 @@ projects:
     url: /projects/caltech-cds/
 
 teaching:
+  - title: "EL2425 Project Course"
+    url: /teaching/EL2425
   - title: "EL1000 Automatic Control"
     url: /teaching/EL1000
     children:
     - title: "Förkunskapskrav"
       url: /teaching/EL1000/prerequisites
-    - title: "Ö1: Stegsvar & Poler"
-      url: /teaching/EL1000/stegsvar_poler
-    - title: "Ö2: PID"
-      url: /teaching/EL1000/pid
-    - title: "Ö3:  Dämpning, Rotort"
-      url: /teaching/EL1000/rotort
-    - title: "D4:  Matlab, Stegsvar "
-      url: /teaching/EL1000/computer_exercise1
-    - title: "Ö5:  Nyqvistkriteriet"
-      url: /teaching/EL1000/nyquist
-    - title: "Ö6:  Bodediagram"
-      url: /teaching/EL1000/bode
-    - title: "D7: Rotort, Nyqvist, Bode"
-      url: /teaching/EL1000/computer_exercise2
-    - title: "Ö8:  Lead-lag, Robusthet"
-      url: /teaching/EL1000/leadlag
-    - title: "Ö9:  Tillståndsform"
-      url: /teaching/EL1000/robusthet
-    - title: "Ö10:  Styr-, observerbarhet"
-      url: /teaching/EL1000/styrbarhet
-    - title: "D11:  Tillståndsform"
-      url: /teaching/EL1000/computer_exercise3
-    - title: "Ö12:  Tillståndsåterkoppling"
-      url: /teaching/EL1000/lecture_12
-    - title: "Ö13:  Tidsdiskreta system"
-      url: /teaching/EL1000/lecture_13
+    - title: "Övningar"
+      url: /teaching/EL1000/exercises
+    - title: "Datorövningar"
+      url: /teaching/EL1000/computer-exercises
     - title: "Vattentankssimulering"
       url: /teaching/EL1000/watertank-simulation
   - title: "SF1625 Single variable calculus"
@@ -89,6 +69,8 @@ teaching:
     url: /teaching/SF1659
 
 el1000:
+  - title: "EL2425 Project Course"
+    url: /teaching/EL2425
   - title: "EL1000: Reglerteknik"
     url: /teaching/EL1000
   - title: "Förkunskaper"
@@ -127,3 +109,27 @@ el1000:
       url: /teaching/EL1000/computer_exercise3
   - title: "Vattentankssimulering"
     url: /teaching/EL1000/watertank-simulation
+  - title: "SF1625 Single variable calculus"
+    url: /teaching/SF1625
+  - title: "SF1659 Mathematics basic course"
+    url: /teaching/SF1659
+
+
+el2425:
+  - title: "EL2425 Project Course"
+    url: /teaching/EL2425
+    children:
+    - title: "Getting started"
+      url: /teaching/EL2424/get-started/
+    - title: "GIT basics"
+      url: /teaching/EL2424/git-basics/
+    - title: "Rosparam"
+      url: /teaching/EL2424/rosparam/
+    - title: "Implement MPC"
+      url: /teaching/EL2424/implement-mpc/
+  - title: "EL1000 Automatic Control"
+    url: /teaching/EL1000
+  - title: "SF1625 Single variable calculus"
+    url: /teaching/SF1625
+  - title: "SF1659 Mathematics basic course"
+    url: /teaching/SF1659
