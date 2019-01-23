@@ -6,7 +6,7 @@ share: false
 use_math: true
 comments: true
 sidebar:
-  nav: "teaching"
+  nav: "el1000"
 ---
 
 ## Innehåll

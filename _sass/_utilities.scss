@@ -186,6 +186,10 @@ body:hover .visually-hidden button {
     color: #000;
   }
 
+  .ai {
+    color: #000;
+  }
+
   .fa-behance,
   .fa-behance-square {
     color: $behance-color;
@@ -281,6 +285,15 @@ body:hover .visually-hidden button {
   .fa-xing,
   .fa-xing-square {
     color: $xing-color;
+  }
+
+  .ai-google-scholar,
+  .ai-google-scholar-square {
+    color: #4185f4;
+  }
+
+  .ai-orcid-square {
+    color: #A6CE39;
   }
 }
 
