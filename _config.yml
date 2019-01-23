@@ -10,7 +10,7 @@ locale                   : "en"
 title                    : "Linnea Persson"
 title_separator          : "-"
 name                     : "Linnea Persson"
-description              : "PhD student in Automatic Control at KTH Royal Institute of Technology."
+description              : "PhD student in Decision and Control Systems at KTH Royal Institute of Technology."
 url                      : https://people.kth.se/~laperss
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
