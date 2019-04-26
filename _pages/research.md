@@ -30,8 +30,11 @@ Bergstrom, R., Crimella, M., Ivchenko, N., Karlsson, A., Lindberg, H., Persson, 
 
 ## Theses
 
-### Master of Science
+### Licentiate of Engineering in Automatic Control
+Linnea Persson, ["Autonomous and Cooperative Landings Using Model Predictive Control"](http://www.diva-portal.org/smash/get/diva2:1296460/FULLTEXT01.pdf), March 2019
+
+### Master of Science in Systems, Control and Robotics
 Linnea Persson, ["Cooperative Control for Landing a Fixed-Wing Unmanned Aerial Vehicle on a Ground Vehicle"](http://kth.diva-portal.org/smash/get/diva2:930987/FULLTEXT01.pdf), February 2016
 
-### Bachelor of Science
+### Bachelor of Science in Engineering Physics
 Linnea Persson, ["Microparticle Ejection and Electromagnetic Scattering in the SCRAP Experiment"](http://kth.diva-portal.org/smash/get/diva2:753859/FULLTEXT01.pdf), May 2014
