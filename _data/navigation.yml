@@ -11,6 +11,8 @@ main:
     children:
     - title: "EL1000 Automatic Control"
       url: /teaching/EL1000
+  - title: "Quadcopter basics"
+    url: /quadcopter-basics/
 
 research:
   - title: "Publications"
@@ -67,6 +69,13 @@ teaching:
     url: /teaching/SF1625
   - title: "SF1659 Mathematics basic course"
     url: /teaching/SF1659
+
+drones:
+  - title: "Quadcopter basics"
+    url: /quadcopter-basics
+    children:    
+    - title: "Quadcopter dynamics"
+      url: /quadcopter-basics/dynamics
 
 el1000:
   - title: "EL2425 Project Course"
